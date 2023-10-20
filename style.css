@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+}
+
+.full {
+    height: 100vh;
+    background: #fff;
+}
+
+.logo-wrapper {
+    display: none;
+}
+
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+}
+.mb-1 {
+    margin: bottom 0.5em;
+}
+
+.form-logo{
+    filter: brightness(0);
+}
